@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="f8d99b2a-8bf9-42fa-9e0f-c9be4fe0642b" />
+              <option name="method" value="GET" />
+              <option name="name" value="get user by id" />
+              <option name="url" value="http://localhost:8080/api/users/1" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;pabitra bera&quot;,&#10;  &quot;email&quot;: &quot;pabitra@gmail.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2265bba4-38a3-4ff8-8821-cd5733afa672" />
+              <option name="method" value="POST" />
+              <option name="name" value="create user" />
+              <option name="url" value="http://localhost:8080/api/users" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Pabitra Bera&quot;,&#10;  &quot;email&quot;: &quot;pabitrabera2001@gmail.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8cca759f-24ae-4b26-8390-17f5fff0ba65" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8080/api/users/1" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="f4cc563e-917f-4b47-8948-2d29a680ef3a" />
+  </component>
+</project>
